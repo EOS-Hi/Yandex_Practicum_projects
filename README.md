@@ -34,11 +34,11 @@
 
 Используемые библиотеки
 
-pandas
-matplotlib.pyplot 
-seaborn 
-numpy 
-math 
-scipy 
-datetime 
-sklearn
+* pandas
+* matplotlib.pyplot 
+* seaborn 
+* numpy 
+* math 
+* scipy 
+* datetime 
+* sklearn
