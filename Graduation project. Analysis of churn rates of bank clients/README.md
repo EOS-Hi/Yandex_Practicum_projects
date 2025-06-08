@@ -35,7 +35,7 @@
 * matplotlib.pyplot 
 * seaborn 
 * numpy 
-*math 
+* math 
 * scipy 
 * itertools
 
